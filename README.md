@@ -3,6 +3,7 @@
 # 🚀 Website Agensi SEO Indonesia
 ### *Modern, Professional & High-Converting Digital Marketing Landing Page*
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Kunjungi_Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://website-agensi-seo-indonesia.vercel.app/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -10,8 +11,14 @@
 
 <br />
 
+### 🌐 **[➥ Klik di Sini untuk Membuka Live Demo di Vercel](https://website-agensi-seo-indonesia.vercel.app/)**
+
+<br />
+
 <p align="center">
-  <img src="assets/images/desktop-preview.png" alt="Tampilan Desktop Website Agensi SEO Indonesia" width="100%" style="border-radius: 10px; box-shadow: 0 15px 35px rgba(0,0,0,0.1);" />
+  <a href="https://website-agensi-seo-indonesia.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="assets/images/desktop-preview.png" alt="Tampilan Desktop Website Agensi SEO Indonesia" width="100%" style="border-radius: 10px; box-shadow: 0 15px 35px rgba(0,0,0,0.1);" />
+  </a>
 </p>
 
 <p align="center">
@@ -28,14 +35,25 @@
   <tr>
     <td width="70%" align="center">
       <strong>💻 Tampilan Desktop (Full Responsive)</strong><br><br>
-      <img src="assets/images/desktop-preview.png" alt="Desktop Screenshot" width="100%" />
+      <a href="https://website-agensi-seo-indonesia.vercel.app/" target="_blank">
+        <img src="assets/images/desktop-preview.png" alt="Desktop Screenshot" width="100%" />
+      </a>
     </td>
     <td width="30%" align="center">
       <strong>📱 Tampilan Mobile</strong><br><br>
-      <img src="assets/images/mobile-preview.png" alt="Mobile Screenshot" width="100%" />
+      <a href="https://website-agensi-seo-indonesia.vercel.app/" target="_blank">
+        <img src="assets/images/mobile-preview.png" alt="Mobile Screenshot" width="100%" />
+      </a>
     </td>
   </tr>
 </table>
+
+---
+
+## 🔗 Tautan Penting
+
+- **Live Demo Vercel:** [https://website-agensi-seo-indonesia.vercel.app/](https://website-agensi-seo-indonesia.vercel.app/)
+- **Repositori GitHub:** [https://github.com/fallss/website-agensi-seo-indonesia](https://github.com/fallss/website-agensi-seo-indonesia)
 
 ---
 
